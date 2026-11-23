@@ -32,9 +32,12 @@ O programa concluído deve:
 - Solicitar ao usuário dois números.
 - Somar os números.
 - Imprimir o resultado. Exemplo:
+
+  ```text
   Digite o primeiro número: 3
   Digite o segundo número: 7
   10
+  ```
 
 ### 🛠️ Instruções Condicionais
 
